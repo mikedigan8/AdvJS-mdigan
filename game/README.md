@@ -14,6 +14,11 @@
 
 ## HOW TO INSTALL
 
+- Using your terminal, clone the github repository using the command `$ git clone git@github.com:mikedigan8/AdvJS-mdigan.git`
+- From here `$ cd` into the `game` directory
+- Use the command `$ npm install` to install the correct dependencies into the folder
+- Now simply run `$ node main.js` to start the program
+
 
 ---
 <br>
