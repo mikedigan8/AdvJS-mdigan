@@ -16,7 +16,7 @@ async function rules() {
                                 "2) On your turn, select a column number and hit \"Enter\"\n" +
                                 "   to drop one of your checkers down ANY of the slots.\n" +
                                 "3) Play alternates until one player gets FOUR checkers of\n" +
-                                "   of his or her color in a row. The four in a row can be\n" +
+                                "   his or her color in a row. The four in a row can be\n" +
                                 "   horizontal, vertical, or diagonal.\n\n")
     console.log("HOW TO WIN:\nIf you're the first player to get four of your checkers in\n" +
                                 "a row, you win the game!\n\n")
