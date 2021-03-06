@@ -46,7 +46,7 @@ Print <i>x</i>, as specified above, with a relative or absolute error of at most
 
 Since entering 2<sup>nd</sup> grade Theta has daily math homework sheets. The problems on her worksheet usually go like this:
 
-    There is a certain number of birds, dogs, and cats on a farm. Together they have 14 legs. How many birds, dogs, and cats could there be? Write down as many answers as you can! 
+<i>There is a certain number of birds, dogs, and cats on a farm. Together they have 14 legs. How many birds, dogs, and cats could there be? Write down as many answers as you can! </i>
 
 It is always the same problem, just written in different ways: sometimes with horses, cows, sheep, goats, chickens, beetles, or even spiders – but never with snakes or fishes!
 
@@ -55,7 +55,7 @@ Can you write a program to double-check Theta’s answers?
 ### Input
 
 Input consists of a single line with 4
-integers: <i>b</i>, <i>d</i>, <i>c</i>, and <i>l</i>, with <i>b</i>, <i>d</i>, and <i>c</i> representing the numbers of legs the first, second, and third type of animal has. You are given that 0 < <i>b</i>,<i>c</i>,<i>d</i> ≤ 100 because some farm animals in these math problems may be centipedes. The total number of legs is given by l (0≤ <i>l</i> ≤ 250).
+integers: <i>b</i>, <i>d</i>, <i>c</i>, and <i>l</i>, with <i>b</i>, <i>d</i>, and <i>c</i> representing the numbers of legs the first, second, and third type of animal has. You are given that 0 < <i>b</i>,<i>c</i>,<i>d</i> ≤ 100 because some farm animals in these math problems may be centipedes. The total number of legs is given by <i>l</i> (0≤ <i>l</i> ≤ 250).
 
 ### Output
 
